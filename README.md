@@ -5,11 +5,22 @@ This Poster was designed for:
 3. NYPD 
 4. NYC311
 
+To see the data in action you can also visit the Dashboards I created:
+
+
+[Tableau Dashboard](https://public.tableau.com/profile/hhlamba#!/vizhome/NYC311IncidentsDashboard/Dashboard1)
+
+
+[Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU4NDZjNjAtNDM2NS00OWM4LTlmNTgtNjZiOGMzNDU5NmQxIiwidCI6IjQyNzhhNDAyLTFhOWUtNGViOS04NDE0LWZmYjU1YTVmY2YxZSIsImMiOjN9)
+
+
+Poster:
 <p align="center">
-  <img src="https://github.com/hhlamba/NYC311-Awareness-Strategy/blob/master/NYC311_Awareness_Strategy.jpg" width="500" title="NYC311 Awareness Strategy" border="1">
+  <img src="https://github.com/hhlamba/NYC311-Issues-in-the-Borough/blob/main/Output/Resource-Planning-Strategies.jpg" width="500" title="NYC311 Awareness Strategy" border="1">
 </p>
 
 I found this Dataset on Kaggle [NYC311](https://www.kaggle.com/sherinclaudia/nyc311-2010), I never heard of NYC311 before and started finding what is it all about. NYC311 is a number that you call when you have any issue while you are in NYC. It's kind of 911 but mainly for non-emergencies only. NYC311 could help you with information also.
+
 
 The main idea for choosing this dataset was, could I rely on NYC311 to respond to my issues, the answer was in this Dataset. I started exploring the data set by some single dimentional plots that showed me the shape of the data.
 
@@ -50,3 +61,19 @@ Hence, this could be helpful to justify NYC311's performance, so anyone who is t
 
 But how would this help NYPD and NYC311?
 They could use this poster(or create a similar dashboard) to visualize the spread of issues with respect to Boroughs and time, week or month of the year. This could help them manage their resources better and resolve the issues quickly, hence reducing the average time and would help gain and retain the user base.
+
+
+You can also visit my Dashboards to see the data in action:
+
+[Tableau Dashboard](https://public.tableau.com/profile/hhlamba#!/vizhome/NYC311IncidentsDashboard/Dashboard1)
+
+<p align="center">
+  <img src="https://github.com/hhlamba/NYC311-Issues-in-the-Borough/blob/main/Output/Tableau.png" width="500" title="NYC311 Awareness Strategy" border="1">
+</p>
+
+[Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU4NDZjNjAtNDM2NS00OWM4LTlmNTgtNjZiOGMzNDU5NmQxIiwidCI6IjQyNzhhNDAyLTFhOWUtNGViOS04NDE0LWZmYjU1YTVmY2YxZSIsImMiOjN9)
+
+<p align="center">
+  <img src="https://github.com/hhlamba/NYC311-Issues-in-the-Borough/blob/main/Output/Power%20Bi.png" width="500" title="NYC311 Awareness Strategy" border="1">
+</p>
+
