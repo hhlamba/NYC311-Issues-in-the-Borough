@@ -1,5 +1,5 @@
 # hhlamba
-This Poster was designed for:
+This Viz was designed for:
 1. Tourists at NYC
 2. People living in NYC
 3. NYPD 
