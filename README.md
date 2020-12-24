@@ -8,12 +8,12 @@ This Poster was designed for:
 To see the data in action you can also visit the Dashboards I created:
 
 
-[Tableau Dashboard](https://public.tableau.com/profile/hhlamba#!/vizhome/NYC311IncidentsDashboard/Dashboard1)
-
-[Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU4NDZjNjAtNDM2NS00OWM4LTlmNTgtNjZiOGMzNDU5NmQxIiwidCI6IjQyNzhhNDAyLTFhOWUtNGViOS04NDE0LWZmYjU1YTVmY2YxZSIsImMiOjN9)
+<p align="center">
+  <a href="https://public.tableau.com/profile/hhlamba#!/vizhome/NYC311IncidentsDashboard/Dashboard1" target=_blank>Tableau Dashboard</a>  
+</p>
 
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiOWU4NDZjNjAtNDM2NS00OWM4LTlmNTgtNjZiOGMzNDU5NmQxIiwidCI6IjQyNzhhNDAyLTFhOWUtNGViOS04NDE0LWZmYjU1YTVmY2YxZSIsImMiOjN9">Power Bi Dashboard</a>  
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOWU4NDZjNjAtNDM2NS00OWM4LTlmNTgtNjZiOGMzNDU5NmQxIiwidCI6IjQyNzhhNDAyLTFhOWUtNGViOS04NDE0LWZmYjU1YTVmY2YxZSIsImMiOjN9" target=_blank>Power Bi Dashboard</a>  
 </p>
 
 
@@ -68,13 +68,19 @@ They could use this poster(or create a similar dashboard) to visualize the sprea
 
 You can also visit my Dashboards to see the data in action:
 
-[Tableau Dashboard](https://public.tableau.com/profile/hhlamba#!/vizhome/NYC311IncidentsDashboard/Dashboard1)
+<p align="center">
+  <a href="https://public.tableau.com/profile/hhlamba#!/vizhome/NYC311IncidentsDashboard/Dashboard1" target=_blank>Tableau Dashboard</a>  
+</p>
+
 
 <p align="center">
   <img src="https://github.com/hhlamba/NYC311-Issues-in-the-Borough/blob/main/Output/Tableau.png" width="500" title="NYC311 Awareness Strategy" border="1">
 </p>
 
-[Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU4NDZjNjAtNDM2NS00OWM4LTlmNTgtNjZiOGMzNDU5NmQxIiwidCI6IjQyNzhhNDAyLTFhOWUtNGViOS04NDE0LWZmYjU1YTVmY2YxZSIsImMiOjN9)
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOWU4NDZjNjAtNDM2NS00OWM4LTlmNTgtNjZiOGMzNDU5NmQxIiwidCI6IjQyNzhhNDAyLTFhOWUtNGViOS04NDE0LWZmYjU1YTVmY2YxZSIsImMiOjN9" target=_blank>Power Bi Dashboard</a>  
+</p>
 
 <p align="center">
   <img src="https://github.com/hhlamba/NYC311-Issues-in-the-Borough/blob/main/Output/Power%20Bi.png" width="500" title="NYC311 Awareness Strategy" border="1">
